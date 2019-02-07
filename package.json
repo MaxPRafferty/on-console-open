@@ -1,6 +1,6 @@
 {
   "name": "@maxrafferty/on-console-open",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "notifies on console opening",
   "license": "GNU General Public License v3.0",
   "repository": "MaxPRafferty/on-console-open",
